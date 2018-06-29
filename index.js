@@ -7,7 +7,7 @@
   const additionalStrings = [
     'Software Engineer',
     'Web Developer',
-    'Bird Watcher',
+    'Play Games/Sports',
     'Coffee Lover',
   ];
   const lastLoadedTime = parseInt(localStorage.getItem('lastLoaded'), 10) || 0;
