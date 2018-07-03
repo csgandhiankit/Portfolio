@@ -8,7 +8,7 @@
     'Software Engineer',
     'Web Developer',
     'Enthusiastic',
-    'Energetic'
+    'Energetic',
     'Coffee Lover',
   ];
   const lastLoadedTime = parseInt(localStorage.getItem('lastLoaded'), 10) || 0;
